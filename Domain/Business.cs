@@ -14,6 +14,5 @@ namespace Domain
         public string CIF { get; set; }
         public string Address { get; set; }
         public string Phone { get; set; }
-
     }
 }

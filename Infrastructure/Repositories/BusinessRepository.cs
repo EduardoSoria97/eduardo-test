@@ -10,11 +10,11 @@ namespace Infrastructure.Repositories
 {
     public class BusinessRepository
     {
-        public void SaveBusiness(Business business, Guid userId)
+        public async Task SaveBusinessAsync(Business business)
         {
-            string fileName = $"business_{userId}.json";
+            string fileName = $"business_{business.UserId}.json";
             string json = JsonConvert.SerializeObject(business, Formatting.Indented);
-            File.WriteAllText(fileName, json);
+            await File.WriteAllTextAsync(fileName, json);
         }
     }
 }

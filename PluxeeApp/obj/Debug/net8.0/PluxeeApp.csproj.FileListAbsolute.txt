@@ -24,3 +24,4 @@ C:\Users\Br9an\source\repos\PluxeeSolution\PluxeeApp\obj\Debug\net8.0\ref\Pluxee
 C:\Users\Br9an\source\repos\PluxeeSolution\PluxeeApp\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\Br9an\source\repos\PluxeeSolution\PluxeeApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Br9an\source\repos\PluxeeSolution\PluxeeApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Br9an\source\repos\PluxeeSolution\PluxeeApp\obj\Debug\net8.0\PluxeeApp.sourcelink.json

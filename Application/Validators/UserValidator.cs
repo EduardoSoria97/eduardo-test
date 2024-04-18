@@ -22,6 +22,5 @@ namespace Application.Validators
         {
             return dni.Length == 9 && char.IsLetter(dni[8]);
         }
-
     }
 }

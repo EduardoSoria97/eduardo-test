@@ -10,7 +10,7 @@ namespace Domain.Services
     {
         public static Guid GenerateUniqueId() 
         { 
-            return Guid.NewGuid(); 
+            return Guid.NewGuid();
         }
     }
 }

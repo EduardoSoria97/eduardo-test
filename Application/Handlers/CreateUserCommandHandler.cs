@@ -1,4 +1,5 @@
 ﻿using Application.Commands;
+using Application.Interfaces;
 using Domain;
 using Domain.Services;
 using FluentValidation;
@@ -11,10 +12,6 @@ using System.Threading.Tasks;
 
 namespace Application.Handlers
 {
-    public interface ICommandHandler<T>
-    {
-        void Handle(T command);
-    }
     public class CreateUserCommandHandler : ICommandHandler<CreateUserCommand>
     {
         private readonly UserRepository _userRepository;
@@ -26,7 +23,7 @@ namespace Application.Handlers
             _userValidator = userValidator;
         }
 
-        public void Handle(CreateUserCommand command)
+        public async Task HandleAsync(CreateUserCommand command)
         {
             var user = new User
             {
@@ -44,7 +41,7 @@ namespace Application.Handlers
                 throw new ValidationException(validationResult.Errors);
             }
 
-            _userRepository.SaveUser(user);
+            await _userRepository.SaveUserAsync(user);
             command.Id = user.Id;
         }
     }

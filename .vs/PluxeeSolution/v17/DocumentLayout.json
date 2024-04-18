@@ -3,20 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D995BCC2-FF1C-40E8-8E6F-44DFBEB12783}|PluxeeApp\\PluxeeApp.csproj|c:\\users\\br9an\\source\\repos\\pluxeesolution\\pluxeeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D995BCC2-FF1C-40E8-8E6F-44DFBEB12783}|PluxeeApp\\PluxeeApp.csproj|solutionrelative:pluxeeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C22234C-B32E-413A-872C-3C1C54062732}|Application\\Application.csproj|c:\\users\\br9an\\source\\repos\\pluxeesolution\\application\\interfaces\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C22234C-B32E-413A-872C-3C1C54062732}|Application\\Application.csproj|solutionrelative:application\\interfaces\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C22234C-B32E-413A-872C-3C1C54062732}|Application\\Application.csproj|c:\\users\\br9an\\source\\repos\\pluxeesolution\\application\\handlers\\createbusinesscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C22234C-B32E-413A-872C-3C1C54062732}|Application\\Application.csproj|solutionrelative:application\\handlers\\createbusinesscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C22234C-B32E-413A-872C-3C1C54062732}|Application\\Application.csproj|c:\\users\\br9an\\source\\repos\\pluxeesolution\\application\\handlers\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C22234C-B32E-413A-872C-3C1C54062732}|Application\\Application.csproj|solutionrelative:application\\handlers\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C22234C-B32E-413A-872C-3C1C54062732}|Application\\Application.csproj|c:\\users\\br9an\\source\\repos\\pluxeesolution\\application\\validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C22234C-B32E-413A-872C-3C1C54062732}|Application\\Application.csproj|solutionrelative:application\\validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE5088B9-272C-474A-AF93-A7929A8F7968}|Infrastructure\\Infrastructure.csproj|c:\\users\\br9an\\source\\repos\\pluxeesolution\\infrastructure\\repositories\\businessrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5088B9-272C-474A-AF93-A7929A8F7968}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\businessrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5088B9-272C-474A-AF93-A7929A8F7968}|Infrastructure\\Infrastructure.csproj|c:\\users\\br9an\\source\\repos\\pluxeesolution\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5088B9-272C-474A-AF93-A7929A8F7968}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C22234C-B32E-413A-872C-3C1C54062732}|Application\\Application.csproj|c:\\users\\br9an\\source\\repos\\pluxeesolution\\application\\commands\\createbusinesscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C22234C-B32E-413A-872C-3C1C54062732}|Application\\Application.csproj|solutionrelative:application\\commands\\createbusinesscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C22234C-B32E-413A-872C-3C1C54062732}|Application\\Application.csproj|c:\\users\\br9an\\source\\repos\\pluxeesolution\\application\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C22234C-B32E-413A-872C-3C1C54062732}|Application\\Application.csproj|solutionrelative:application\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C22234C-B32E-413A-872C-3C1C54062732}|Application\\Application.csproj|c:\\users\\br9an\\source\\repos\\pluxeesolution\\application\\validators\\businessvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C22234C-B32E-413A-872C-3C1C54062732}|Application\\Application.csproj|solutionrelative:application\\validators\\businessvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D995BCC2-FF1C-40E8-8E6F-44DFBEB12783}|PluxeeApp\\PluxeeApp.csproj|c:\\users\\br9an\\source\\repos\\pluxeesolution\\pluxeeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D995BCC2-FF1C-40E8-8E6F-44DFBEB12783}|PluxeeApp\\PluxeeApp.csproj|solutionrelative:pluxeeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C22234C-B32E-413A-872C-3C1C54062732}|Application\\Application.csproj|c:\\users\\br9an\\source\\repos\\pluxeesolution\\application\\validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C22234C-B32E-413A-872C-3C1C54062732}|Application\\Application.csproj|solutionrelative:application\\validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89068AB-06CA-475F-8DF9-06CC99F97ECB}|Domain\\Domain.csproj|c:\\users\\br9an\\source\\repos\\pluxeesolution\\domain\\services\\idgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89068AB-06CA-475F-8DF9-06CC99F97ECB}|Domain\\Domain.csproj|solutionrelative:domain\\services\\idgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89068AB-06CA-475F-8DF9-06CC99F97ECB}|Domain\\Domain.csproj|c:\\users\\br9an\\source\\repos\\pluxeesolution\\domain\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89068AB-06CA-475F-8DF9-06CC99F97ECB}|Domain\\Domain.csproj|solutionrelative:domain\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89068AB-06CA-475F-8DF9-06CC99F97ECB}|Domain\\Domain.csproj|c:\\users\\br9an\\source\\repos\\pluxeesolution\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89068AB-06CA-475F-8DF9-06CC99F97ECB}|Domain\\Domain.csproj|solutionrelative:domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +62,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\PluxeeApp\\Program.cs",
               "RelativeDocumentMoniker": "PluxeeApp\\Program.cs",
               "ToolTip": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\PluxeeApp\\Program.cs",
               "RelativeToolTip": "PluxeeApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAFAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwAwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T22:49:21.939Z",
               "IsPinned": true,
@@ -44,42 +80,147 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\Application\\Interfaces\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ICommandHandler.cs",
+              "ToolTip": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\Application\\Interfaces\\ICommandHandler.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ICommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:31:53.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\User.cs",
+              "ToolTip": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\Domain\\User.cs",
+              "RelativeToolTip": "Domain\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:06:41.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Business.cs",
+              "DocumentMoniker": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\Domain\\Business.cs",
+              "RelativeDocumentMoniker": "Domain\\Business.cs",
+              "ToolTip": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\Domain\\Business.cs",
+              "RelativeToolTip": "Domain\\Business.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:06:35.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:05:14.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BusinessRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\Infrastructure\\Repositories\\BusinessRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\BusinessRepository.cs",
+              "ToolTip": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\Infrastructure\\Repositories\\BusinessRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\BusinessRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:05:09.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IdGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\Domain\\Services\\IdGenerator.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\IdGenerator.cs",
+              "ToolTip": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\Domain\\Services\\IdGenerator.cs",
+              "RelativeToolTip": "Domain\\Services\\IdGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:05:01.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateBusinessCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\Application\\Handlers\\CreateBusinessCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\CreateBusinessCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\Application\\Handlers\\CreateBusinessCommandHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\CreateBusinessCommandHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:04:31.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\Application\\Commands\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\Application\\Commands\\CreateUserCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\CreateUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:04:26.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateBusinessCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\Application\\Commands\\CreateBusinessCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\CreateBusinessCommand.cs",
+              "ToolTip": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\Application\\Commands\\CreateBusinessCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\CreateBusinessCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:04:02.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CreateUserCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\Application\\Handlers\\CreateUserCommandHandler.cs",
               "RelativeDocumentMoniker": "Application\\Handlers\\CreateUserCommandHandler.cs",
               "ToolTip": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\Application\\Handlers\\CreateUserCommandHandler.cs",
               "RelativeToolTip": "Application\\Handlers\\CreateUserCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwA4AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T03:55:58.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T03:55:58.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "UserValidator.cs",
               "DocumentMoniker": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\Application\\Validators\\UserValidator.cs",
               "RelativeDocumentMoniker": "Application\\Validators\\UserValidator.cs",
               "ToolTip": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\Application\\Validators\\UserValidator.cs",
               "RelativeToolTip": "Application\\Validators\\UserValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T03:54:45.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T03:54:45.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "BusinessValidator.cs",
               "DocumentMoniker": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\Application\\Validators\\BusinessValidator.cs",
               "RelativeDocumentMoniker": "Application\\Validators\\BusinessValidator.cs",
               "ToolTip": "C:\\Users\\Br9an\\source\\repos\\PluxeeSolution\\Application\\Validators\\BusinessValidator.cs",
               "RelativeToolTip": "Application\\Validators\\BusinessValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T03:54:25.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T03:54:25.408Z"
             }
           ]
         }

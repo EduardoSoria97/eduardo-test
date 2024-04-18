@@ -1,4 +1,5 @@
 ﻿using Application.Commands;
+using Application.Interfaces;
 using Domain;
 using FluentValidation;
 using Infrastructure.Repositories;
@@ -21,7 +22,7 @@ namespace Application.Handlers
             _businessValidator = businessValidator;
         }
 
-        public void Handle(CreateBusinessCommand command)
+        public async Task HandleAsync(CreateBusinessCommand command)
         {
             var business = new Business
             {
@@ -38,7 +39,7 @@ namespace Application.Handlers
                 throw new ValidationException(validationResult.Errors);
             }
 
-            _businessRepository.SaveBusiness(business, business.UserId);
+            await _businessRepository.SaveBusinessAsync(business);
         }
     }
 }

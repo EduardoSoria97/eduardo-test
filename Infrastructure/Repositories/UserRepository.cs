@@ -10,11 +10,11 @@ namespace Infrastructure.Repositories
 {
     public class UserRepository
     {
-        public void SaveUser(User user)
+        public async Task SaveUserAsync(User user)
         {
             string fileName = $"user_{user.Id}.json";
             string json = JsonConvert.SerializeObject(user);
-            File.WriteAllText(fileName, json);
+            await File.WriteAllTextAsync(fileName, json);
         }
     }
 }

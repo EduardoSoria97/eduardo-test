@@ -17,7 +17,6 @@ namespace Application.Validators
             RuleFor(business => business.CIF).NotEmpty().Must(ValidateCIF).WithMessage("El CIF no es válido.");
             RuleFor(business => business.Address).NotEmpty().WithMessage("La dirección es obligatoria.");
             RuleFor(business => business.Phone).NotEmpty().Must(ValidatePhone).WithMessage("El teléfono no es válido.");
-
         }
 
         public bool ValidateCIF(string cif)

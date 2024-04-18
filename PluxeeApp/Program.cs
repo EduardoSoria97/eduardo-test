@@ -1,5 +1,6 @@
 ﻿using Application.Commands;
 using Application.Handlers;
+using Application.Interfaces;
 using Application.Validators;
 using Domain;
 using FluentValidation;
@@ -9,7 +10,7 @@ using System.Security.Authentication.ExtendedProtection;
 
 class Program
 {
-    static void Main(string[] args)
+    static async Task Main(string[] args)
     {
         var services = ConfigureServices();
         var serviceProvider = services.BuildServiceProvider();
@@ -28,7 +29,7 @@ class Program
 
         try
         {
-            userCommandHandler.Handle(userCommand);
+            await userCommandHandler.HandleAsync(userCommand);
             Console.WriteLine("Usuario creado corectamente.");
         }
         catch (Exception ex)
@@ -49,7 +50,7 @@ class Program
 
         try
         {
-            businessCommandHandler.Handle(businessCommand);
+            await businessCommandHandler.HandleAsync(businessCommand);
             Console.WriteLine("Negocio creado con éxito.");
         }
         catch (Exception ex)
